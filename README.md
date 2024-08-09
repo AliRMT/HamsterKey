@@ -14,9 +14,10 @@ This project is a web-based application for generating promo codes for various g
 - **Copy to Clipboard**: Users can copy individual keys or all generated keys to the clipboard with a single click.
 - **Responsive Design**: The application is designed to work well on various screen sizes.
 
-## Buy Script
-Telegram ID: @AioMNG
-Instagram ID: @AliRMT_ir
+## Buy Script $20 ( USDT , TRX , TON , NotCoin )
+
+Telegram ID: ![@AioMNG](https://t.me/aiomng)
+Instagram ID: ![@AioMNG](https://instagram.com/alirmt_ir)
 
 
 ## Getting Started
