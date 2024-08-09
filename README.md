@@ -16,8 +16,8 @@ This project is a web-based application for generating promo codes for various g
 
 ## Buy Script $20 ( USDT , TRX , TON , NotCoin )
 
-Telegram ID: ![@AioMNG](https://t.me/aiomng)
-Instagram ID: ![@AioMNG](https://instagram.com/alirmt_ir)
+Telegram ID: [@AioMNG](https://t.me/aiomng)
+Instagram ID: [@AioMNG](https://instagram.com/alirmt_ir)
 
 
 ## Getting Started
